@@ -40,5 +40,5 @@ This listing will collate resources on Beanstalk to aid in beginnner understandi
 
 ## Spotify / Podcasts
 - Beanstalk Farms: https://open.spotify.com/show/70lfZOSaqWjhTFujgkhVOu
-- The Bean Pod: https://open.spotify.com/show/5VZRhgtCQqw9xGIXXHqi8m
+- The Bean Pod with Rex: https://open.spotify.com/show/5VZRhgtCQqw9xGIXXHqi8m
 - Beanstalk Interview with Publius: https://open.spotify.com/episode/5POA3MsLEYZWnKoRj7o7uM?si=J60lcZ4wS8qhk8yfC6TEHA&nd=1

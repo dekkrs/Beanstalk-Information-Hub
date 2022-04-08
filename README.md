@@ -23,7 +23,7 @@ This listing will collate resources on Beanstalk to aid in beginnner understandi
 - Kidquartz - Confusion around algostables: https://twitter.com/KidQuartz1/status/1509978392166338563
 - Kidquartz - WhitePaper Math: https://twitter.com/KidQuartz1/status/1510681934493589513
 - Unbanksy - Podline Yield Curve Arbitrage: https://twitter.com/unbanksyETH/status/1500371592077099009
-- Doctor Parth Beanstalk Breakddown: https://twitter.com/doctor_parth/status/1488941756448382976
+- Doctor Parth - Beanstalk Breakddown: https://twitter.com/doctor_parth/status/1488941756448382976
 - rektdiomedes - An Idiot’s Guide To BeanstalkFarms: - https://twitter.com/rektdiomedes/status/1512289910815805445
 
 

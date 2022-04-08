@@ -4,8 +4,8 @@ Beanstalk is a decentralized credit based algorithmic stablecoin protocol that i
 This listing will collate resources on Beanstalk to aid in beginnner understanding of the protocol or provide some valuable bed time reading. Feel free to suggest additions.
 
 ## Articles / Medium Posts
-- Zero to Beanstalk - Austin: https://mirror.xyz/astn.eth/w5336TYVkb-9eIlKxrCPKLoUNvYRgJmd6nB4Br5-Vs8
 - Introduction Article: https://medium.com/@BeanstalkFarms/introducing-beanstalk-557c45cb8d80
+- Zero to Beanstalk - Austin: https://mirror.xyz/astn.eth/w5336TYVkb-9eIlKxrCPKLoUNvYRgJmd6nB4Br5-Vs8
 - Earn Interest from Beanstalk: Just the Basics: https://medium.com/beanstalkfarms/earn-interest-from-beanstalk-just-the-basics-165a8cc5fecd
 - How To Beanstalk: https://bean.money/docs/How-To.html **(Needs a refresh)**
 - What is Beanstalk - Austin: https://mirror.xyz/astn.eth/LeuGtteOh8N0GVHwuPL4R1TIPXmjQuZQFzGObCLezUM

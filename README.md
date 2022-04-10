@@ -14,7 +14,6 @@ This listing will collate resources on Beanstalk to aid in beginnner understandi
 - Beanstalk and $LUSD - Syncubate: https://www.syncubate.com/blog/2021/12/6/money-legos
 - How Beans Might Become De #1 Stablecoin - 0xMarcel: https://mirror.xyz/0xmarcel.eth/yiSXmDjKECD1TNJgSHZQOnqf-91ZVOyIIY-ZsjbXU0Y
 
-
 ## Twitter Threads
 - Jack Niewold - How debt and credit might revolutionize DeFi: https://twitter.com/JackNiewold/status/1504546656271929344
 - WagmiLabs - What is Beanstalk creating: https://twitter.com/WagmiLabsInk/status/1503623035307237377
@@ -27,7 +26,6 @@ This listing will collate resources on Beanstalk to aid in beginnner understandi
 - rektdiomedes - An Idiot’s Guide To BeanstalkFarms: https://twitter.com/rektdiomedes/status/1512289910815805445
 - DeFi Made here - Algorithmic stablecoins: case of $BEAN: https://twitter.com/DeFi_Made_Here/status/1501182073356398592
 
-
 ## Video Explainers
 - What is Beanstalk: https://www.youtube.com/watch?v=Yn9cn_IZy7o
 - Bean.money - Ceazor: https://www.youtube.com/watch?v=570HgXHgRK0
@@ -39,8 +37,13 @@ This listing will collate resources on Beanstalk to aid in beginnner understandi
 - Beanstalk Interview - DeFi Trader: https://www.youtube.com/watch?v=wIoaib1sG3g4
 - Bean Money with Anish: https://www.youtube.com/watch?v=akjlOIaaR5E
 
-
 ## Spotify / Podcasts
 - Beanstalk Farms: https://open.spotify.com/show/70lfZOSaqWjhTFujgkhVOu
 - The Bean Pod with Rex: https://open.spotify.com/show/5VZRhgtCQqw9xGIXXHqi8m
 - Beanstalk Interview with Publius: https://open.spotify.com/episode/5POA3MsLEYZWnKoRj7o7uM?si=J60lcZ4wS8qhk8yfC6TEHA&nd=1
+
+## Dune Dashboards
+- Beanstalk: https://dune.xyz/tbiq/Beanstalk
+- Beanstalk-Silo-APY-Calculator: https://dune.xyz/tbiq/Beanstalk-Silo-APY-Calculator
+- bean-silo-payout: https://dune.xyz/queries/496927/940885
+- bean-uni-crv-volume: https://dune.xyz/queries/386539/737068

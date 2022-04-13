@@ -36,6 +36,7 @@ This listing will collate resources on Beanstalk to aid in beginnner understandi
 - The Future of Algorithmic Stablecoins with Publius - Nasjaq: https://www.youtube.com/watch?v=EH5Ms-7QMVc
 - Beanstalk Interview - DeFi Trader: https://www.youtube.com/watch?v=wIoaib1sG3g4
 - Bean Money with Anish: https://www.youtube.com/watch?v=akjlOIaaR5E
+- Innovating in the world of DeFi & stablecoins with Publius - Future Visual: https://www.youtube.com/watch?v=n2sRIpKJ-r8&feature=youtu.be
 
 ## Spotify / Podcasts
 - Beanstalk Farms: https://open.spotify.com/show/70lfZOSaqWjhTFujgkhVOu
